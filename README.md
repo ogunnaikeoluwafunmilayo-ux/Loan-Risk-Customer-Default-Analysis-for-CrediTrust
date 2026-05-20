@@ -1,8 +1,3 @@
 # Loan-Risk-Customer-Default-Analysis-for-CrediTrust
 
-<img width="1375" height="722" alt="Loan Risk 1" src="https://github.com/user-attachments/assets/e9172aca-9e12-4fcc-a90d-898b557427b5" />
-
-<img width="1372" height="727" alt="Loan Risk 2" src="https://github.com/user-attachments/assets/f3603d70-8012-488a-b328-5395f43c2fd9" />
-
-<img width="1377" height="717" alt="Loan Risk 3" src="https://github.com/user-attachments/assets/cb6ed28f-b640-4be4-84cb-e11070931f8b" />
-
+<img width="1375" height="731" alt="Loan Risk 1" src="https://github.com/user-attachments/assets/e7d83bb1-376d-44e3-895e-4e6445b8191f" />
